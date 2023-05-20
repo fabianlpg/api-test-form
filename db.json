@@ -1,0 +1,19 @@
+{
+    "clientes": [
+        {
+            "email": "fabian@correo.mx",
+            "id": "865682f8-d4e2-4d18-b732-bb5e71012b7d",
+            "lastName": "López",
+            "name": "Fabian",
+            "nov": false,
+            "promo": true
+        }
+    ],
+    "trabajadores": [
+        {
+            "name": "José",
+            "lastName": "Luna",
+            "puesto": "chofer"
+        }
+    ]
+}
